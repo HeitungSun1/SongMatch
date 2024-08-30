@@ -1,7 +1,4 @@
 # AppDevHack-songmatch
-Team Members:
-Lily Pham, lnp35; Elizabeth Tang, et362; Heitung Sun, hs835; Emily Wang, eyw23; Jiejun Zhang, jz2252
-
 App Name: SongMatch
 Connecting unique users to unique music
 
